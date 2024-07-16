@@ -1,0 +1,1 @@
+-Basic Monorepo/Turborepo file with ebuild dependencies instead of typescript
